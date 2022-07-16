@@ -1,7 +1,7 @@
 # shoesstore
 
 
-## Linguagens usadas HTML - CSS
+## Linguagens usadas: HTML / CSS
 
 
 
