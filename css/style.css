@@ -131,10 +131,13 @@ body {
     .l-logo {
         width: auto;
         width: 50vw;
+        padding-top: 2%;
     }
     
     .c-logo__img {
+        margin-top: 2.5%;
         margin-left: 2.5%;
+        padding: 2%;
     }
     
     .l-nav__menu {
@@ -166,7 +169,7 @@ body {
         height: 15vh;
         text-align: center;
         margin-top: 5%;
-        font-size: 2.5rem;
+        font-size: 2rem;
         font-weight: bold;
     }
     
